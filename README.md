@@ -2,7 +2,7 @@
 ## Exercícios para aprendizado de python reúnidos em um Repositório
 
 ### Introdução Geral
-Nos exercícios, os conceitos de lógica de programação e funcionamento da linguagem foram, progressivamente, compreendidos e desenvolvidos, tais como: 
+Nos exercícios, conceitos de lógica de programação e funcionamento da linguagem foram, de forma progressiva, compreendidos e desenvolvidos. Tais como: 
 * Variáveis e Tipos
 * Operações matemáticas e Operadores Lógicos
 * Estrutura Condicional
